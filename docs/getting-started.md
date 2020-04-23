@@ -4,9 +4,9 @@ date: 2018-09-15 07:42:34
 slug: getting-started
 ---
 
-## What is Jamdocs
+## Welcome to Aircrft Library
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+Knowledge is power. Knowledge and action is a superpower! Uplift yourself with our curated collection on high impact books for founders/ startups.
 
 ## Local installation
 
