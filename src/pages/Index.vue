@@ -32,7 +32,7 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: 'Aircrft library - empower and uplift with knowlegde and action!'
     }
   },
   metaInfo() {
