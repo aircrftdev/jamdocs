@@ -2,12 +2,12 @@
   <g-link to="/" class="logo" title="Back to home">
     <transition name="theme">
       <div v-if="color == 'dark'">
-        <g-image src="~/assets/img/aircrft-logo-clean.png" alt="logo" />
+        <g-image src="~/assets/img/aircrft-logo.png" alt="logo" />
       </div>
     </transition>
     <transition name="theme">
       <div v-if="color == 'bright'">
-        <g-image src="~/assets/img/aircrft-logo-clean.png" alt="logo" />
+        <g-image src="~/assets/img/aircrft-logo.png" alt="logo" />
       </div>
     </transition>
   </g-link>
