@@ -1,16 +1,16 @@
 <template>
-  <a href="https://github.com/samuelhorn/jamdocs" :class="size" title="Git-repository" aria-label="Jamdocs on Github">
+  <a href="https://aircrft.com" :class="size" title="Git-repository" aria-label="Join Aircrft">
     <github-icon class="icon" />
     {{text}}
   </a>
 </template>
 
 <script>
-import { GithubIcon } from 'vue-feather-icons'
+import { Feather } from 'vue-feather-icons'
 
 export default {
   components: {
-    GithubIcon
+    FeatherIcon
   },
   props: {
     size: {
@@ -19,7 +19,7 @@ export default {
     },
     text: {
       type: String,
-      default: 'Fork me on Github'
+      default: 'Join Aircrft'
     }
   }
 }
